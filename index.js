@@ -3,11 +3,9 @@ function happyHolidays(string)
   return "Happy holidays!"
 }
 
-var name = "Kate";
-
 function happyHolidayTo(string)
 {
-  return "Happy Holidays, ${name}!"
+  return "Happy Holidays, ${Kate}!"
 }
 
 function happyHolidayTo(string)
