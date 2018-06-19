@@ -8,7 +8,12 @@ function happyHolidayTo(name)
   return `Happy Holidays, ${name}!`
 }
 
-function happyHolidayTo(string)
+function happyHolidayTo(holiday, name)
 {
-  return "Happy ${Thanksgiving}, ${Kate}!"
+  return `Happy ${holiday}, ${name}!`
+}
+
+function holidayCountdown(days, holiday)
+{
+  
 }
